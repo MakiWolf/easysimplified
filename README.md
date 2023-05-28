@@ -7,4 +7,5 @@ This are basic calculators written in many different programming languages with 
 ### [easysimplifiedcalculator5 - Kotlin programming language for Android](https://gitlab.com/makiwolf/easysimplifiedcalculator5)
 
 ## easysimplified vocabularytrainer
+This is a vocabulary trainer, where you can store your progress in a database file.
 ### [easysimplifiedvocabularytrainerpython - Python programming language](https://github.com/MakiWolf/easysimplifiedvocabularytrainerpython)
