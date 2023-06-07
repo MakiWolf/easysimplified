@@ -10,4 +10,4 @@ This are basic calculators written in many different programming languages with 
 This is a vocabulary trainer, where you can store your progress in a database file.
 ### [easysimplifiedvocabularytrainerpython - Python programming language](https://github.com/MakiWolf/easysimplifiedvocabularytrainerpython)
 ### [easysimplifiedvocabularyviewer in C# and windows forms](https://github.com/MakiWolf/easysimplifiedvocabularyviewer)
-### [easysimplifiedvocabularyviewer in PHP](https://github.com/MakiWolf/easysimplifiedvocabularytrainerphp)
+### [easysimplifiedvocabularytrainer in PHP](https://github.com/MakiWolf/easysimplifiedvocabularytrainerphp)
