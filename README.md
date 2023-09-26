@@ -11,3 +11,6 @@ This is a vocabulary trainer, where you can store your progress in a local datab
 ### [easysimplifiedvocabularytrainerpython - Python programming language](https://github.com/MakiWolf/easysimplifiedvocabularytrainerpython)
 ### [easysimplifiedvocabularyviewer in C# and windows forms](https://github.com/MakiWolf/easysimplifiedvocabularyviewer)
 ### [easysimplifiedvocabularytrainer in PHP](https://github.com/MakiWolf/easysimplifiedvocabularytrainerphp)
+
+## easysimplified-designer
+### [easysimplified-designer in C# and windows forms](https://github.com/MakiWolf/easysimplified-designer)
