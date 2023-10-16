@@ -5,6 +5,7 @@ This are basic calculators written in many different programming languages with 
 ### [easysimplifiedcalculator2 - Java programming language for Android](https://gitlab.com/makiwolf/easysimplifiedcalculator2)
 ### [easysimplifiedcalculator3 - PHP programming language](https://github.com/MakiWolf/easysimplifiedcalculator3)
 ### [easysimplifiedcalculator5 - Kotlin programming language for Android](https://gitlab.com/makiwolf/easysimplifiedcalculator5)
+### [easysimplifiedcalculator6 - C# programming language](https://gitlab.com/makiwolf/easysimplifiedcalculator_6)
 
 ## easysimplified vocabularytrainer
 This is a vocabulary trainer, where you can store your progress in a local database file or server side in an mariadb database.
